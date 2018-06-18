@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fa7067c-4ee6-45ab-84b8-4583d707b199" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/exo_nb_prem.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exo1_boucle.py" beforeDir="false" afterPath="$PROJECT_DIR$/exo1_boucle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exo_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/exo_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exo_tableau.py" beforeDir="false" afterPath="$PROJECT_DIR$/exo_tableau.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exo_tableau2.py" beforeDir="false" afterPath="$PROJECT_DIR$/exo_tableau2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/igraphes_et_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/igraphes_et_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/palindrome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_graphe.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_graphe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_nb_prem.py" beforeDir="false" afterPath="$PROJECT_DIR$/exo_nb_prem.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,7 +29,7 @@
     <SUITE FILE_PATH="coverage/helloworld$baseop.coverage" NAME="baseop Coverage Results" MODIFIED="1528986123255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/helloworld$singe.coverage" NAME="singe Coverage Results" MODIFIED="1529067377906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/helloworld$Unittests_in_igraphes_test_py.coverage" NAME="Unittests in igraphes_et_test.py Coverage Results" MODIFIED="1529074232520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/helloworld$exo_nb_prem.coverage" NAME="exo_nb_prem Coverage Results" MODIFIED="1529316001603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/helloworld$exo_nb_prem.coverage" NAME="exo_nb_prem Coverage Results" MODIFIED="1529316747362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/helloworld$exo_tableau.coverage" NAME="exo_tableau Coverage Results" MODIFIED="1529310017823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
@@ -108,8 +100,8 @@
       <file leaf-file-name="exo_nb_prem.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/exo_nb_prem.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+            <state relative-caret-position="207">
+              <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -660,20 +652,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exo_tableau.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exo_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exo1_boucle.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -695,10 +673,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/exo_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exo_tableau.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/exo_nb_prem.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        <state relative-caret-position="207">
+          <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
         </state>
       </provider>
     </entry>
