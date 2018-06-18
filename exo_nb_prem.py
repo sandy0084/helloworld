@@ -20,13 +20,14 @@ def nbPrem(n):
 # print(v1)
 
 ##################
-# def listNb(n):
+# def listNb2(n):
 #     list = []
 #     for i in range(2,99):
-#         nbPrem(n)
-#         list.append(n)
-#         print(list)
+#         if nbPrem(n) == True:
+#         nbPrem(n).append(list)
 #         return
+#
+# print(list)
 
 
 def listNb():
