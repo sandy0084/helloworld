@@ -29,14 +29,19 @@ class Graph(GraphInterface):
 
     # declarer une methode
     def add_node(self, node):
-        print(node + " est ajoute ")
-        self.node.append(node)
+        if node not in self.node:
+            print(node + " est ajoute ")
+            self.node.append(node)
 
     def node_count(self):
         n_count = len(self.node)
         return n_count
 
     def add_edge(self, node1, node2):
+
+        if node1 == node2:
+            return
+
         if node1 in self.node and node2 in self.node:
             print("Ajouter arete entre " + node1 + " et " + node2)
             self.edge.append(node1 + ":" + node2)
@@ -47,7 +52,7 @@ class Graph(GraphInterface):
 
     def edge_exists(self, nd1, nd2):
         for a in self.edge:
-            if a == (nd1 + ':' + nd2):
+            if a == (nd1 + ':' + nd2) or a == (nd2 + ':' + nd1):
                 return True
         return False
 
